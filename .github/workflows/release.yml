@@ -43,7 +43,7 @@ jobs:
           - mips64_octeonplus
           
         sdk:
-          - openwrt-22.03
+          - openwrt-24.10
 
     steps:
       - uses: actions/checkout@v3
